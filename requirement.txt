@@ -1,0 +1,5 @@
+pyqt5
+tensorflow
+qimage2ndarray
+opencv-python
+playsound 
