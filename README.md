@@ -5,7 +5,7 @@
 This project relies on a handful of dependencies, use the following command to install your dependencies:
 
 ```shell
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
