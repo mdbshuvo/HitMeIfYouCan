@@ -20,4 +20,10 @@ Open Command prompt ar shell on the folder where the game is, or navigate there.
 python HitMeIfYoouCan.py
 ```
 
+## Some Screenshots
+
+![Menu-view](demo-images/hit_me_ss_0.png)
+![playing-view](demo-images/hit_me_ss.png)
+![missed-view](demo-images/hit_me_ss_2.png)
+
 Enjoy.
